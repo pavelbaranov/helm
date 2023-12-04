@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-12-04T17:55:16.747917659+03:00"
+entries:
+  hjenkins:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-04T22:27:21.604273076+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 9caf5b3b10af8dfb9bdd3614cfdf752dd5e9eb8869691047eff06319075ee7c3
+    name: hjenkins
+    type: application
+    urls:
+    - https://pavelbaranov.github.io/helm/helm-releases/hjenkins-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-04T22:27:21.603271907+03:00"
